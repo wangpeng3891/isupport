@@ -1,1 +1,4 @@
-dfa
+
+[root@GPU model]# git add .
+[root@GPU model]# git commit -m 'test1'
+[root@GPU model]# git push -u origin master
